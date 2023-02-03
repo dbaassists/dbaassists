@@ -8,8 +8,8 @@ Nesse momento venho desenvolvendo as seguintes frentes:
 
 - 🔭 Trabalhando em um novo desafio!
 - 📚 Dedicando muito tempo estudando <b>Python, Spark, PySpark e Databricks.</b>
-- 📊 Trabalhando no desenvolvimento/atualização de meus treinamentos em <b>SQL Server, SSIS, Azure Data Factory, Python e Spark.</b>
-- 💭 Estudando Muito Azure: <b>Azure Analysis Service e Azure Data Factory.</b>
+- 📊 Desenvolvendo e atualizando meus treinamentos em <b>SQL Server, SSIS, Azure Data Factory, Python e Spark.</b>
+- 💭 Foco/Estudo em Azure: <b>Azure Analysis Service e Azure Data Factory.</b>
 - 🎲 Analisando Dados Coletados para Montar Mentoria.
 - 💬 Caso possua alguma dúvida em <b>SQL Server, SSIS, Azure Data Factory, Python e Spark</b>, pode perguntar!
 - 📫 Você me encontra através do e-mai, dbaassists@gmail.com 
