@@ -1,6 +1,9 @@
-### Hi there 👋
+Fala Galera, tudo blz? 
 
-<!--
+Eu sou o Gabriel Quintella e você pode me chamar de Quintellão! 👋
+
+Trabalho com dados a alguns anos e quando falamos em carreira profissional, essa é a minha paixão! 
+
 **dbaassists/dbaassists** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
