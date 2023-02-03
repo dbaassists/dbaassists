@@ -4,11 +4,9 @@
 
 Trabalho com dados a alguns anos e quando falamos em carreira profissional, essa é a minha paixão! 
 
-<div>
-<a href="https://github.com/dbaassists">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dbaassists&theme=nord&show_icons=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbaassists&layot=compact&langs_count=16&theme=nord"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbaassists&theme=Gradient&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/dbaassists/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbaassists&theme=Gradient&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/dbaassists/github-readme-stats)
 
 **dbaassists/dbaassists** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
