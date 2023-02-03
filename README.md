@@ -1,5 +1,7 @@
 Fala Galera, tudo blz? 
 
+![Uploading fotor_2023-2-3_14_10_49.png…]()
+
 Eu sou o Gabriel Quintella e você pode me chamar de Quintellão! 👋
 
 Trabalho com dados a alguns anos e quando falamos em carreira profissional, essa é a minha paixão! 
