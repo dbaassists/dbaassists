@@ -23,8 +23,8 @@ Destaco abaixo um pouco da minha experiência profissional!
 
 <div style='display: inline_block'><br>
 <img align='center' alt='exp_profissional' height='170' width='200em' src='https://github.com/dbaassists/QuemSouEu/blob/main/exp_profissional.png'/>
-<img align='center' alt='tec_db' height='170' width='200em'  src='https://github.com/dbaassists/QuemSouEu/blob/main/tec_db.png'/>
-<img align='center' alt='ferra_integracao' height='170' width='200em'  src='https://github.com/dbaassists/QuemSouEu/blob/main/ferra_integracao.png'/>  
+<img align='center' alt='tec_db' height='170' width='190em'  src='https://github.com/dbaassists/QuemSouEu/blob/main/tec_db.png'/>
+<img align='center' alt='ferra_integracao' height='170' width='190em'  src='https://github.com/dbaassists/QuemSouEu/blob/main/ferra_integracao.png'/>  
 <img align='center' alt='seg_atuacao' height='180' width='180em'  src='https://github.com/dbaassists/QuemSouEu/blob/main/seg_atuacao.png'/>
 </div>
 
@@ -81,4 +81,21 @@ Tecnologias que possuo conhecimento.
   
 ##
 
+Minhas Certificações
+  
+<div style='display: inline_block'><br>
+<img align='center' alt='SQL' height='90' width='90' src='https://github.com/dbaassists/QuemSouEu/blob/main/badges/mcsasqlserver.png'/>
+<img align='center' alt='SQL' height='90' width='90' src='https://github.com/dbaassists/QuemSouEu/blob/main/badges/mtadatabase.png'/>
+  <img align='center' alt='SQL' height='90' width='90' src='https://github.com/dbaassists/QuemSouEu/blob/main/badges/mtapython.png'/>
+  <img align='center' alt='SQL' height='90' width='90' src='https://github.com/dbaassists/QuemSouEu/blob/main/badges/az900.png'/>
+  <img align='center' alt='SQL' height='90' width='90' src='https://github.com/dbaassists/QuemSouEu/blob/main/badges/dp900.png'/>
+  <img align='center' alt='SQL' height='90' width='90' src='https://github.com/dbaassists/QuemSouEu/blob/main/badges/ai900.png'/>
+  <img align='center' alt='SQL' height='90' width='90' src='https://github.com/dbaassists/QuemSouEu/blob/main/badges/dp203.png'/>
+  <img align='center' alt='SQL' height='90' width='90' src='https://github.com/dbaassists/QuemSouEu/blob/main/badges/dp300.png'/>
+  <img align='center' alt='SQL' height='90' width='90' src='https://github.com/dbaassists/QuemSouEu/blob/main/badges/mct_2022_2023.png'/>
+  <img align='center' alt='SQL' height='90' width='90' src='https://github.com/dbaassists/QuemSouEu/blob/main/badges/mct_2023_2024.png'/>
+</div>  
+  
+##
+  
 
