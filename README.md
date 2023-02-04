@@ -18,7 +18,7 @@ Nesse momento venho desenvolvendo as seguintes frentes:
 ##
 
 
-Destaco abaixo um pouco da minha experiência profissional!
+🗂 <b>Destaco abaixo um pouco da minha experiência profissional!<b>
 
 
 <div style='display: inline_block'><br>
@@ -32,7 +32,7 @@ Destaco abaixo um pouco da minha experiência profissional!
 
 ##
 
-Minha experiência profissional ao longo dos anos!
+🗂 <b>Minha experiência profissional ao longo dos anos!<b>
 
 
 
@@ -42,7 +42,7 @@ Minha experiência profissional ao longo dos anos!
 
 
 ##
-Minha Atividade no GitHub!
+🗂 <b>Minha Atividade no GitHub!<b>
 
 <div><br>
 <a href="https://github.com/dbaassists">
@@ -51,7 +51,7 @@ Minha Atividade no GitHub!
 </div>
 
 ##
-Minhas redes sociais.  
+🖥 <b>Minhas redes sociais.</b>
 
   
 <div><br>
@@ -62,7 +62,7 @@ Minhas redes sociais.
 </div>
   
 ##
-Tecnologias que possuo conhecimento.
+💻 <b>Tecnologias que possuo conhecimento.</b>
   
 <div style='display: inline_block'><br>
 <img align='center' alt='SQL' height='30' width='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg'/>
@@ -81,7 +81,7 @@ Tecnologias que possuo conhecimento.
   
 ##
 
-Minhas Certificações
+🥇 <b>Minhas Certificações<\b>
   
 <div style='display: inline_block'><br>
 <img align='center' alt='SQL' height='90' width='90' src='https://github.com/dbaassists/QuemSouEu/blob/main/badges/mcsasqlserver.png'/>
@@ -98,4 +98,13 @@ Minhas Certificações
   
 ##
   
+📚 <b>Meus Treinamentos<b>
 
+Treinamentos In Company ou Particular. <br>
+
+Entre em contato através do e-mail dbaassists@gmail.com para maiores detalhes. <br>
+
+📔 Treinamento de T-SQL do Básico ao Avançado <br>
+📕 Treinamento em SQL Server Integration Services <br>
+📗 Treinamento em Azure Data Factory <br>
+📘 Treinamento em Python <br>
