@@ -1,5 +1,10 @@
 ## Fala Galera, tudo blz? 
 
+<div style='display: inline_block'><br>
+<a href="https://github.com/dbaassists">
+<img align='center' alt='exp_profissional' height='200' width='200em' src='https://github.com/dbaassists/QuemSouEu/blob/main/fotor_2023-2-3_14_10_49.png'/>
+</div>
+
 ## Eu sou o Gabriel Quintella e você pode me chamar de Quintellão! 👋
 
 Trabalho com dados a alguns anos e quando falamos em carreira profissional, essa é a minha paixão! 
